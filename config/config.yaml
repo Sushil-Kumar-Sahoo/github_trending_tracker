@@ -1,0 +1,14 @@
+scraper:
+  trending_url: "https://github.com/trending"
+  since: "daily"
+  user_agent : "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+
+database:
+  path: "data/github_trending.db"
+
+output:
+  folder: "outputs"
+
+plot:
+  fig_size: [10,6]
+  top_n: 10
