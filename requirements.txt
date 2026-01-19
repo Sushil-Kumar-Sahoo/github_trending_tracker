@@ -5,3 +5,4 @@ matplotlib
 lxml
 pandas
 tqdm
+pyyaml
