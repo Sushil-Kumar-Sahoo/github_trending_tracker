@@ -4,4 +4,4 @@ beautifulsoup4
 matplotlib
 lxml
 pandas
-
+tqdm
